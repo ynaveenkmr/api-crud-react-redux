@@ -1,0 +1,13 @@
+li{
+    display: block;
+}
+.custom-input{
+    display: block;
+
+}
+.input-api-values-body{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 13%;
+}
